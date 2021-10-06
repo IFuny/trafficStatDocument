@@ -15,3 +15,9 @@
   - 目前还在测试中，只能从testflight中下载，[点我下载](https://testflight.apple.com/join/jwzpPVQ3)
 7. 哪里可以反馈问题？
   - 用testfilght就能反馈，如果有其他不方便通过testFlight反馈，加我微信并备注来意:Sawalon
+
+
+## 后续规划：
+1. 加入图表分析
+2. 将数据备份到您的icloud中，以后就算删除app，你也能通过你的icloud备份回来你的数据（该数据我们这边拿不到，时苹果官方为您将您的数据备份到云端，安全可靠）
+3. 加入widget让统计数据更为准确
