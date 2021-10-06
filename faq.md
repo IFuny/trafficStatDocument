@@ -15,7 +15,8 @@
   - 目前还在测试中，只能从testflight中下载，[点我下载](https://testflight.apple.com/join/jwzpPVQ3)
 7. 哪里可以反馈问题？
   - 用testfilght就能反馈，如果有其他不方便通过testFlight反馈，加我微信并备注来意:Sawalon
-
+8. 为什么有这个app？
+  - 学习swift和swiftUI的副产品
 
 ## 后续规划：
 1. 加入图表分析
