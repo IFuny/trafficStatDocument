@@ -8,3 +8,5 @@
 
 <!-- 上架创建preview视频 -->
 <!-- https://support.apple.com/zh-cn/guide/imovie/welcome/mac -->
+<!-- https://zhuanlan.zhihu.com/p/64024797 -->
+<!-- Actually I found the solution quite by accident.  You go to iMovie then click "Project" at the top left.  It displays all the projects, if you have any.  Then go to File and at this point the option, "New App Preview" is active and can be selected. -->
