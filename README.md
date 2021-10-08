@@ -4,3 +4,7 @@
 3. [how accurate statistics/如何精确统计](https://github.com/IFuny/trafficStatDocument/blob/main/accurateStatistics.md)
 4. [download app/下载app](https://testflight.apple.com/join/jwzpPVQ3)
 
+
+
+<!-- 上架创建preview视频 -->
+<!-- https://support.apple.com/zh-cn/guide/imovie/welcome/mac -->
