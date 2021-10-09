@@ -1,3 +1,38 @@
+# common problem
+
+1. What is this app used for?
+  -It is used to record where you are, how much traffic you use and display it on the map. Let you know how to use your traffic.
+2. Will this app collect my internet history and location information?
+  - will not. All recorded traffic data and location information are all stored in your phone.
+  -After all, there is no money to buy a server
+3. If the app is deleted, can the data be recovered?
+  -If it is deleted, it cannot be restored. Can only be recollected
+4. Does this app collect traffic information in real time?
+  -No, this app will only wake up the app to record traffic information once when you move more than x meters (that is, the minimum update distance in the settings), and the recording operation is very small. It will not be running all the time.
+5. Why are there few data points displayed on my map? Or the map is not displayed?
+  -It is recommended to go to `Settings`--->`trafficState`--->`Location`--->`Always allow`, enable this option, the app can better record your location.
+  -[10-second video tutorial](https://www.bilibili.com/video/BV1cr4y127Jj?share_source=copy_web)
+6. Where can I download it?
+  -It is currently under test and can only be downloaded from testflight, [click me to download](https://testflight.apple.com/join/jwzpPVQ3)
+7. Where can I report questions?
+  -Use testfilght to give feedback. If there are other inconvenient feedback through testFlight, there is a `Share your ideas` button in the app to share your product suggestions.
+8. Why is there this app?
+  -Learn the by-products of swift and swiftUI
+  
+## Set up related issues
+1. Turn on Always access location, will it consume a lot of power?
+  -No, this app will only wake up and record data when the "minimum update distance" you set occurs.
+  -For example, if you set the'minimum update distance' to 10 meters, then when you move 20 meters, the app will only wake up 2 times to record data.
+  -If you don’t believe it, you can click on'Settings -> Battery -> Traffic Map' to check its'App battery usage'
+  -How to confirm whether the app consumes power: [10-second video tutorial](https://www.bilibili.com/video/BV1FL411x7sn?share_source=copy_web)
+
+
+## Follow-up planning:
+1. Add chart analysis
+2. Back up the data to your icloud. Even if you delete the app in the future, you can back up your data through your icloud (the data is not available here, but Apple officially backs up your data to the cloud for you) ,Safe and reliable)
+3. Add widget to make statistics more accurate
+4. Add users to customize app color matching
+
 # 常见问题
 
 1. 这个app是干什么用的？
