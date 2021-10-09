@@ -5,7 +5,7 @@
 3. Add widget to make statistics more accurate
 4. App color matching can be customized
 
-# app的规划
+# app的规划:
 
 1. 图表分析
 2. 将记录数据备份到您的icloud账户中，防止数据丢失
