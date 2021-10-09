@@ -1,3 +1,14 @@
+# How to achieve accurate statistics
+
+1. Click on the `Settings` page in this app
+2. Turn on the `Timely Statistics` switch in the settings page
+3. In the pop-up location permission pop-up window, select `during app usage`
+4. Slide to the bottom, click `Jump to ->Settings`, then it will automatically jump to the system settings page
+5. On the system settings page, select `Location`-->`Always`
+
+
+[10 seconds video tutorial](https://www.bilibili.com/video/BV1cr4y127Jj?share_source=copy_web)
+
 # 如何做到精确统计
 
 1. 点开本app内的`设置`页面
