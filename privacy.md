@@ -1,3 +1,316 @@
+trafficStat privacy policy
+
+ 
+
+Last updated: September 01, 2021
+
+ 
+
+I. Introduction
+
+    trafficStat is a software service platform developed, operated and managed by iFuny to help trafficStat users (hereinafter referred to as "users" or "you") record traffic based on maps, analyze traffic, and get rid of mobile phone addiction (hereinafter referred to as "trafficStat" or "us") , All point to iFuny, trafficStat app, trafficStat website), we focus on guiding you to reshape healthy living habits.
+
+In order to provide you with products/services (hereinafter collectively referred to as "services") and improve service quality, we will collect, store, use, and provide your personal information (hereinafter referred to as "information") in accordance with the principles of lawfulness, fairness and necessity. We respect your personal privacy. For this reason, trafficStat provides the following privacy policy clauses to explain to you our user's personal information collection, storage, use and protection policies.
+
+ 
+
+2. Reminder clause
+
+1. TrafficStat hereby reminds you that before you use the services we provide, please read carefully and fully understand each clause of this "trafficStat Privacy Policy" (hereinafter referred to as "the Policy"), especially in bold font The content of the logo. If you do not understand a certain clause clearly, you are welcome to contact us in time. If you are a non-registered user, if you do not agree to this policy, please do not continue to use the services we provide. If you are a registered user, if you click the button to agree to this policy online, it will be deemed that you agree to accept all the terms and conditions of this policy.
+
+2. The Android version of trafficStat provides both a paid version and a free version of software for users to choose from. If the user chooses the paid version of the software, under the premise of paying, the user can choose not to open the "rewarded advertising" (trafficStat push, display commercial advertising) service function. If the user chooses to use the free version of the software, please understand that if there is no advertising revenue, we will not be able to continue to provide free services, so we will publish commercial advertisements on the free version of the software; if you have objections to this, please stop using the free version Software and switch to the paid version software.
+
+ 
+
+    Three, definition
+
+    1. User personal information: refers to the user's name, date of birth, ID number, address, phone number, account number, and password collected by telecommunications business operators and Internet information service providers in the course of providing services, which can be used alone or in combination with other information Combine the information that identifies the user and the time and place the user uses the service.
+
+   2. User sensitive personal information: refers to personal information that, once leaked, illegally provided or misused, may endanger personal and property safety, and easily lead to personal reputation, physical and mental health damage, or discriminatory treatment. Personal sensitive information includes ID number, personal biometric information (personal genes, fingerprints, voiceprints, palm prints, auricles, iris, facial recognition features, etc.), bank accounts, communication records and content, property information, credit information, Whereabouts, accommodation information, health and physiological information, transaction information, etc.
+
+   3. Related parties: One party controls, jointly controls the other party, or exerts a significant influence on the other party, and two or more parties are controlled, jointly controlled or significantly influenced by one party, which constitute a related party.
+
+   4. Equipment: Refers to devices that can be used to access the trafficStat website and trafficStat app, including desktop computers, laptops, tablets, smart phones and other smart terminals.
+
+   5. Unique Device Identifier: refers to the unique device identifier, a string of characters compiled into the device by the device manufacturer, which can be used to identify the device.
+
+   6. IP address: refers to the Internet Protocol (IP) address, the number of the network device, which can be used to identify the location of the device when it is connected to the Internet.
+
+ 
+
+Four, privacy policy
+
+In order to facilitate your reading of this policy, we have set up the following index table of contents, please refer to it for your reference.
+
+How to collect and use personal information
+Use cookies and similar technologies
+How to store and protect personal information
+How to provide external information
+Protection of minors
+How users access and manage personal information
+Services provided by third parties
+How to update this policy
+Application of this policy
+contact us
+       
+
+How to collect and use personal information
+We will follow the principles of lawfulness, fairness and necessity, and collect and use your personal information in accordance with the following regulations. If we are unable to obtain and use the necessary user personal information, we may not be able to provide corresponding services. If this phenomenon occurs, please understand.
+
+ 1.1 Personal information you actively provide
+
+ ⑴The information you provided when registering an account
+
+ When you register a user account, you may need to provide user name, email address, identification information (such as date of birth), password and other information. The above registration information may be used for your account login, account management, and important behavior verification purposes.
+
+ ⑵The information you provide when using our services
+
+ When you use our services, you may provide your personal information, such as uploading avatars, sharing photos and other personal information.
+
+ ⑶Information you provide through customer service
+
+ When you contact us through customer service channels, you may provide us with your personal information, and we may collect the above information to solve your problems.
+
+ We hereby remind you that if it is not necessary, please try not to provide your sensitive personal information; during your interaction with other users (friends), please do not disclose your sensitive personal information.
+
+ 1.2 Personal information we actively collect
+
+ ⑴In order to ensure your normal use of the services we provide and improve the quality of our services, we may collect your personal information as follows:
+
+ a. Equipment and software information
+
+ Such as device model, device identifier, hardware, device MAC address, operating system and other software, device geographic location (may be obtained through IP address, GPS, WLAN, mobile phone system setting area, etc.) and other information. The purpose of collecting the above information: to understand the device and system information used by the user, to provide help in diagnosing and correcting software errors, and upgrading the software; when the user registers an account, we will read the user's device information, and when we carry out marketing activities for different regions , You can only push messages to relevant users to avoid disturbing irrelevant users; when a user requests a connection to the server, the server will record the IP address of the source of these requests. When the server is attacked, we will trace the source of the attack based on the IP address information, and Block continuous attacks.
+
+ b. Log information
+
+ During your use of our services, we may collect information such as your equipment and trafficStat software operation records, operation failures and other information. We will collect users' behaviors in using trafficStat software, such as the number of times the software has been used, which pages have been visited, and which functions have been used. This will help us understand the needs of users, so that we can focus on developing the most useful features for users. In addition, we will also collect software operation failure records to help diagnose and repair software errors.
+
+ c. Software installation list
+
+ For details, please refer to item g below ⑵ trafficStat app permission acquisition instructions.
+
+
+
+ The rest of the information not collected by us but collected by third-party organizations will be explained in the fourth point.
+
+
+
+ ⑵ Instructions for obtaining permission of trafficStat app
+
+ a. Read and write memory permissions
+
+ In order for the trafficStat software to run according to your settings, the software needs to read, write, modify, and delete your user preference information; to keep your login software status and avoid repeated logins, the software needs to read your login The status of the software; in order for you to quickly access the advertising page, the software needs to download the advertising page to your memory in advance.
+
+ In order to make the trafficStat app run stably, when you install the trafficStat app or when we collect your personal information, we may apply to you for this permission (read, write, modify, delete your storage information), we promise Only read or cache necessary information.
+
+ b. Permission to read phone status
+
+ In order to complete security certification (such as security certification such as user payment fees), when you install the trafficStat app or when we collect your personal information, we may apply for this permission from you, and we promise to only read your device identification information , Equipment status information and equipment environment information.
+
+ c. Location information permissions
+
+ In order to enable you to obtain service recommendations based on your location and complete security certification (such as security certification for non-frequent login locations, prompts), when you install the trafficStat app or when we collect your personal information, we may apply to you Get this permission.
+
+ d. Camera permissions and album permissions
+
+ In order to enable you to scan the QR code, avatar picture settings, screenshot feedback and other functions, when you install the trafficStat app or when we collect your personal information, we may apply to you for this permission.
+
+ e. Microphone permissions
+
+ In order to enable you to obtain functions such as voice search, intelligent voice assistant or voice communication with customer service, when you install the trafficStat app or when we collect your personal information, we may apply to you for this permission.
+
+ f. Read the address book permissions
+
+ In order to enable you to obtain functions such as adding friends, when you install the trafficStat app or when we collect your personal information, we may apply to you for this permission so that you can quickly select the corresponding contact person or mobile phone number.
+
+ e. Permission to read application usage
+
+ If the user chooses to use the "deep focus mode" or "whitelist" function, trafficStat needs to obtain whether the user left trafficStat while planting the tree and whether the user is using the software application in the whitelist. In this case, this permission needs to be enabled.
+
+ g. Permission to read software installation list information
+
+ In order to realize the "whitelist" function, trafficStat will read the software installation list information on the user's device, so as to identify whether the application software the user is using is the application software in the "whitelist". If the software installation list information on the user's device cannot be obtained, the user will not be able to use this function. The program will only collect this information after the user agrees to the privacy policy.
+
+ 1.3 Personal information we obtain from third parties
+
+ In order to ensure your normal use of the services we provide and improve the quality of our services, we may collect and use your personal information from third parties. In the fourth point, we will elaborate on the content of the information obtained by the third party and the name of the organization. If you refuse a third party to provide us with your personal information when providing services, you will not be able to use the services we provide. For example, when you pay us through payment institutions (including banks, third-party payment institutions, etc.), The payment institution will provide us with your payment information (including payment account, payment amount, etc.), and we need to provide you with corresponding fee-based services based on the payment information.
+
+ 1.4 How we use the collected personal information
+
+ ⑴We will use the collected personal information to satisfy your service requests, such as user login account verification requests.
+
+ ⑵Optimize our service
+
+ We may conduct comprehensive analysis and research on the collected information so that we can provide you with accurate and personalized services, and we can also optimize our services based on the analysis results.
+
+ ⑶Provide you with security
+
+ We use the collected information for network and software security detection and prevention.
+
+ ⑷We use the collected personal information to troubleshoot software errors.
+
+ ⑸Send notifications and marketing information
+
+ In order to provide services and improve service quality, we may send you notifications or marketing information through system announcements, system notifications, station letters, emails, etc. If you do not want to receive notifications or marketing information that are not necessary to provide services, you can choose to unsubscribe from the notifications or marketing information according to our prompts.
+
+ ⑹Ad display
+
+ When we provide free services, we may place advertisements on the trafficStat platform. If there is no advertising revenue, we will not be able to continue to provide free services. In order to provide users with a good user experience, we will minimize the impact of irrelevant advertisements on you, and we will show you advertisements that may be of interest to you based on the analysis results of your Internet usage habits and preferences.
+
+ ⑺ The personal information use methods separately stipulated in this policy.
+
+ 1.5 In the following circumstances, we may collect and use your personal information in accordance with the law without your consent:
+
+ ⑴ National security, public safety, and public interest needs;
+
+ ⑵ Laws, regulations or mandatory administrative/judicial requirements;
+
+ ⑶In an emergency, it is necessary to protect your or others' major interests;
+
+ ⑷Your personal information is public information;
+
+ ⑸ Necessary for signing and fulfilling the service contract between us and you;
+
+ ⑹ It is necessary to maintain the safe and stable operation of the products/services we provide, such as discovering and handling service failures;
+
+ ⑺ The circumstances stipulated by laws and regulations.
+
+ 
+
+2. Use of cookies and similar technologies
+
+ 2.1Cookie
+
+ In order to improve the user experience, we may store a small data file (hereinafter referred to as "Cookie") on your computer or mobile device. With the help of cookies, trafficStat software can store your software preferences and settings so that you do not have to submit all login application information every time you log in to the software. According to your software preferences, we may provide you with the most relevant service information. You can manage or delete cookies according to your preferences (deleting methods include: deleting trafficStat software (if it is IOS system version software), clearing cache or deleting cookies in browser settings). However, disabling or deleting cookies may affect your use of all or part of the functions of the services we provide.
+
+ 2.2 Web beacons and pixel tags
+
+ We may use web beacons or pixel tags on our website. A web beacon is usually an electronic image embedded in a website or email that can be used to identify a cookie on your device when you view a web page or email. Pixel tags allow us to send emails in a format that you can read and allow us to know if the email has been opened. If you don't want your activities to be tracked in this way, you can unsubscribe from trafficStat's mailing list at any time.
+
+ 
+
+3. How to store and protect personal information
+
+ 3.1 Storage period
+
+ Unless otherwise provided by laws and regulations, we will stop collecting your personal information after you terminate the use of the services we provide, and delete or anonymize your personal information within a reasonable period of time.
+
+ 3.2 Personal Information Protection
+
+ ⑴We have established and improved the user's personal information confidentiality system. We will strictly set the user's personal information access authority based on the principle of necessity and minimum authorization, and control the scope of users' personal information.
+
+ ⑵In the event of a security incident such as personal information leakage, we will initiate an emergency plan in accordance with laws and regulations to prevent the expansion of the security incident, and send you a notification.
+
+ ⑶ Please keep your registered account information (user name, password) properly. If you find that the above information has been leaked, please contact us in time.
+
+ 
+
+4. How to provide external information
+
+ 4.1 Sharing information
+
+ ⑴In order to provide services and improve service quality, we may share information with third parties. The aforementioned third parties include our affiliates and partners. If we share your personal information with a third party, we will follow the principles of lawfulness, fairness, and necessity, and conduct a security assessment. If the third party is our affiliate, we will ensure that the third party will store, protect, and use your personal information in strict accordance with the provisions of this policy. If the third party is a partner, we will obtain or confirm in advance that the third party has obtained your express consent to the act of sharing information.
+
+ ⑵In order to provide a rich advertising service experience, we will introduce third-party advertising service providers (such as [Beijing ByteDance Technology Co., Ltd.]) to provide you with more advertisements that may be of interest to you. In the process of advertising, we will follow the principle of minimization to share your personal information with third-party advertising service providers and third-party advertising monitoring service providers. We will carefully select partners and sign relevant agreements with them, and will require them to take reasonable measures in accordance with the law to protect your personal information.
+
+ In order to provide you with personalized advertising services that you may be interested in, we will share your advertising identifier, device operating system, device hardware, device MAC address, network operator, IP address, and your browsing advertisements with third-party advertising service providers Log and other information.
+
+ In order to know the effectiveness of advertising, we may share information such as your advertising identifier and logs of your advertisements with third-party advertising monitoring service providers.
+
+ 4.2 Entrusted processing information
+
+ In order to provide services and improve service quality, we may access third-party agencies to entrust marketing, technical services, customer relationship services, information push services, payment services, data analysis services, error reporting services and other agencies to provide services to you on behalf of us , The following are the third-party organizations we currently access:
+
+
+
+ (1) Data analysis services and error reports are used to provide more stable services: Google Firebase, Google Analytics, Google Crashlytics. (SDK name: com.google.firebase)
+
+
+
+ (2) Customer relationship service, used to process user feedback in real time: Intercom. (SDK name: com.intercom, io.intercom.android)
+
+
+
+ (3) Payment services to provide users with purchased goods: Ping++, WeChat Pay, Alipay (SDK name: com.pingxx, com.tencent.mm.opensdk, com.alipay), where com.alipay includes Alipay; Alipay code ; Alibaba Sesame Credit Real-Name Certification; Sesame Certification. The aforementioned third parties may collect common device information (such as device Mac address, unique device identification code IMEI/android ID/device ID/GUID, SIM card IMSI information, etc.).
+
+
+
+ (3) Information push service, used to notify users of product news: Umeng (SDK name: com.umeng) and its service provider Taobao/Alibaba Cloud/other Alibaba Group related companies and other third-party organizations. It may collect common device information (such as device Mac address, unique device identification code IMEI/android ID/device ID/GUID, SIM card IMSI information/geographical location, etc.).
+
+
+
+ (4) Advertising service, used to display advertisements to users: pangolin, giant engine (SDK name: com.bytedance.sdk.openadsdk)
+
+
+
+ For the above-mentioned third-party organizations, we will supervise and manage the personal information protection of the users of the agent, and require the agent to protect your personal information in accordance with the law. If the agent violates the provisions of laws and regulations, the agent shall bear legal responsibility.
+
+ 4.3 Public disclosure of information
+
+ We will not publicly disclose the personal information that has been collected. If public disclosure is required, we will obtain your consent in advance.
+
+ 4.4 Transfer information
+
+ We will not transfer your personal information to a third party. However, if we have transactions such as company mergers/divisions, asset transfers, etc., you must transfer your personal information. We will inform you of the above circumstances and the transferee company will not Continue to protect your personal information in accordance with the standards of this policy.
+
+ 4.5 Under the following circumstances, we may share with third parties, transfer to third parties, and publicly disclose your personal information without your consent:
+
+ ⑴ National security, public safety, and public interest needs;
+
+ ⑵ Laws, regulations or mandatory administrative/judicial requirements;
+
+ ⑶In an emergency, it is necessary to protect your or others' major interests;
+
+ ⑷The circumstances stipulated by laws and regulations.
+
+ 
+
+5. How users access and manage personal information
+
+ 5.1 trafficStat does not need to log in and record personal information temporarily
+ 
+
+6. Protection of minors
+
+ 6.1 If you are a minor who has reached the age of 14 but under the age of 18, it is recommended that you obtain the consent of your guardian before you use the services we provide.
+
+ 6.2 If you are a child under the age of 14, please be sure to obtain the consent of your guardian before using the services we provide. If your guardian does not agree to your use of our services, please immediately terminate the use of our services and contact us.
+
+ 
+
+7. Services provided by third parties
+
+In order to provide services and improve service quality, you may use services provided by third parties. If you click on a link on the trafficStat platform (trafficStat app, trafficStat website) to enter a third-party website or software program, the third party may collect, store, use, and provide your personal information to the outside world before using the services provided by the third party Please refer to the third party’s privacy policy and decide whether to use the services provided by the third party. We are not responsible for the behavior of the third party.
+
+ 
+
+8. How to update this policy
+
+We will revise the existing terms in accordance with the latest legal regulations and service development status. When this policy changes, we will send you a notice of revision in the form of a pop-up window. We hereby remind you that after you click the consent button in the pop-up window, we will collect, use, and provide your personal information in accordance with the updated privacy policy.
+
+If you do not agree with our updated content, please contact us in time. If we are unable to obtain and use the necessary user personal information, we may not be able to provide corresponding services. If this phenomenon occurs, please understand.
+
+ 
+
+9. Application of this policy
+
+ 9.1 The scope of this policy applies to all products/services provided by trafficStat.
+
+ 9.2 This policy is formulated in accordance with the laws of the People's Republic of China and is interpreted in accordance with the laws.
+
+ 
+
+10. Contact us
+
+If you have any questions or comments (including complaints) about this policy or the protection of your personal information, you can contact us as follows.
+
+    Our contact information: Email: 552038086@qq.com
+
+We will study your questions as soon as possible and reply within 15 days after receiving your email.
+
+ 
+
+
 trafficStat隐私政策
 
  
