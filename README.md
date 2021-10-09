@@ -3,6 +3,7 @@
 2. [Privacy Policy/隐私条款](https://github.com/IFuny/trafficStatDocument/blob/main/privacy.md)
 3. [how accurate statistics/如何精确统计](https://github.com/IFuny/trafficStatDocument/blob/main/accurateStatistics.md)
 4. [download app/下载app](https://testflight.apple.com/join/jwzpPVQ3)
+5. [feature/软件规划](https://github.com/IFuny/trafficStatDocument/blob/main/feature.md)
 
 
 
