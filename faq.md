@@ -19,12 +19,7 @@
 8. Why is there this app?
   -Learn the by-products of swift and swiftUI
   
-## Set up related issues
-1. Turn on Always access location, will it consume a lot of power?
-  -No, this app will only wake up and record data when the "minimum update distance" you set occurs.
-  -For example, if you set the'minimum update distance' to 10 meters, then when you move 20 meters, the app will only wake up 2 times to record data.
-  -If you don’t believe it, you can click on'Settings -> Battery -> Traffic Map' to check its'App battery usage'
-  -How to confirm whether the app consumes power: [10-second video tutorial](https://www.bilibili.com/video/BV1FL411x7sn?share_source=copy_web)
+## [Set up related issues](https://github.com/IFuny/trafficStatDocument/blob/main/feature.md)
 
 
 ## Follow-up planning:
@@ -62,8 +57,4 @@
   - 如何确认app是否耗电:[10秒视频教程](https://www.bilibili.com/video/BV1FL411x7sn?share_source=copy_web)
 
 
-## 后续规划：
-1. 加入图表分析
-2. 将数据备份到您的icloud中，以后就算删除app，你也能通过你的icloud备份回来你的数据（该数据我们这边拿不到，是苹果官方为您将您的数据备份到云端，安全可靠）
-3. 加入widget让统计数据更为准确
-4. 加入用户可自定义app配色
+## [后续规划](https://github.com/IFuny/trafficStatDocument/blob/main/feature.md)
