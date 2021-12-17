@@ -2,8 +2,10 @@
 1. [FAQs/常见问题](https://github.com/IFuny/trafficStatDocument/blob/main/faq.md)
 2. [Privacy Policy/隐私条款](https://github.com/IFuny/trafficStatDocument/blob/main/privacy.md)
 3. [how accurate statistics/如何精确统计](https://github.com/IFuny/trafficStatDocument/blob/main/accurateStatistics.md)
-4. download app/下载app. [test Flight](https://testflight.apple.com/join/jwzpPVQ3)   [app store](https://itunes.apple.com/app/1588860762)
-5. [feature/软件规划](https://github.com/IFuny/trafficStatDocument/blob/main/feature.md)
+4. download app/下载app.
+    - [test Flight](https://testflight.apple.com/join/jwzpPVQ3)   
+    - [app store](https://itunes.apple.com/app/1588860762)
+6. [feature/软件规划](https://github.com/IFuny/trafficStatDocument/blob/main/feature.md)
 
 
 
